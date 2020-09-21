@@ -1,0 +1,191 @@
+html, body{
+    margin: 0;
+}
+header{
+    background-color: orange;
+    height:80px;
+    width: 100%;
+    position: fixed;
+    z-index: 100000000000000000000;
+}
+#logo{
+    width: 70px;
+    float: left;
+    position: absolute;
+    top: 5px;
+    margin-left: 5%;
+    bottom: 5px;
+}
+#menu{
+    float: right;
+    margin-right: 5%;
+    margin-top: 5px;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    float: left;
+    padding: 20px  20px 20px 20px;
+    margin-top: 0px;
+}
+li:hover{
+    background-color: yellow;
+}
+#primeiraparte{
+    padding: 220px;
+    background: url("imagem/pexels-george-desipris-769228.jpg");
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace ;
+}
+#segundaparte{
+    float: left;
+    margin: 0%;
+}
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#subtitulo{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+body {
+    background-color: yellow;
+}
+#ação {
+    color: white solid;
+    border: 1px white solid;
+    padding: 20px 20px 20px 20px;
+}
+#ação:hover{
+    background-color: whitesmoke;
+}
+#titulos{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.textos{
+    font-family: 'Courier New', Courier, monospace;
+    text-justify: auto;
+}
+#tituloprojeto{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 25px 20px 10px 20px;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+#video{
+    position: relative;
+    padding-top: 5%;
+}
+.coluna2{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+} 
+.textocoluna{
+    padding-top: 5%;
+}
+#titulocomofunciona{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#terceiraparte{
+    margin: 0%;
+    float: left;
+}
+#quartaparte{
+    margin-top: 20px;
+    float: left;
+}
+#subtitulo1{
+    text-align: center justify;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 25%;
+    margin-right: 5%;
+    width: 20%;
+    align-items: center;
+}
+#subt1{
+    text-align: center;
+}
+#subt2{
+    margin-top: 0px;
+    text-align: center;
+}
+#textosubt1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center justify;
+}
+#textosubt2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center justify;
+}
+#subtitulo2{
+    text-align: center justify;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+    position: relative;
+    padding-top: 20px;
+    padding-right: 15%;
+    margin-left: 5%;
+    width: 20%;
+}
+.ícone{
+    width: 25%;
+    padding-left: 33%;
+    padding-right: 33%; 
+}
+.colunasobremim{
+    position: relative;
+    padding: 20px 20% 20px 30%;
+    text-align: center;
+    width: 40%;
+}
+#quintaparte{
+    margin-top: 20px;
+    float: left;
+}
+#foto{
+    width: 30%;
+}
+#titulosobremim{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%;
+}
+#sobremim{
+    margin: 0%;
+    padding-bottom: 25px;
+}
+#créditos1{
+    float: left;
+    position: relative;
+    width: 40%;
+}
+#créditos2{
+    float: right;
+    width: 40%;
+    position: relative;
+}
+footer{
+    background-color: orange;
+    float: left;
+    width: 100% ;
+}
+#titulocredito{
+    text-align: center;
+}
